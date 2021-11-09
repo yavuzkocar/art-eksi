@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\artıeksi\bin\Debug\net5.0\artıeksi.exe
+D:\yazılım\pratikler\artıeksi\bin\Debug\net5.0\artıeksi.deps.json
+D:\yazılım\pratikler\artıeksi\bin\Debug\net5.0\artıeksi.runtimeconfig.json
+D:\yazılım\pratikler\artıeksi\bin\Debug\net5.0\artıeksi.runtimeconfig.dev.json
+D:\yazılım\pratikler\artıeksi\bin\Debug\net5.0\artıeksi.dll
+D:\yazılım\pratikler\artıeksi\bin\Debug\net5.0\ref\artıeksi.dll
+D:\yazılım\pratikler\artıeksi\bin\Debug\net5.0\artıeksi.pdb
+D:\yazılım\pratikler\artıeksi\obj\Debug\net5.0\artıeksi.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\artıeksi\obj\Debug\net5.0\artıeksi.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\artıeksi\obj\Debug\net5.0\artıeksi.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\artıeksi\obj\Debug\net5.0\artıeksi.AssemblyInfo.cs
+D:\yazılım\pratikler\artıeksi\obj\Debug\net5.0\artıeksi.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\artıeksi\obj\Debug\net5.0\artıeksi.dll
+D:\yazılım\pratikler\artıeksi\obj\Debug\net5.0\ref\artıeksi.dll
+D:\yazılım\pratikler\artıeksi\obj\Debug\net5.0\artıeksi.pdb
+D:\yazılım\pratikler\artıeksi\obj\Debug\net5.0\artıeksi.genruntimeconfig.cache
